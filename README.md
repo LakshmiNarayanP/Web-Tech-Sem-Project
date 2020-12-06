@@ -51,10 +51,10 @@ All the article titles are links. Clicking on them would lead the user to anothe
 At the bottom is a 'Back to main' button that will lead the user back to the home page
 
 ## How to run the code
-Fork the repository to your GitHub account by clicking on the 'fork' button on the top right
-Clone it to your local system
-  Use the command git clone https://github.com/LakshmiNarayanP/Web-Tech-Sem-Project.git
- Using the terminal or prompt, navigate to this project folder
- Since there is the front end and the back end, and both have to work simultaneously, use the command: npm run dev
- This should start the client and the server and the app should automatically load up on the browser with the link: http://localhost:3000
+1. Fork the repository to your GitHub account by clicking on the 'fork' button on the top right
+2. Clone it to your local system
+3. Use the command git clone https://github.com/LakshmiNarayanP/Web-Tech-Sem-Project.git
+4. Using the terminal or prompt, navigate to this project folder
+5. Since there is the front end and the back end, and both have to work simultaneously, use the command: npm run dev
+6. This should start the client and the server and the app should automatically load up on the browser with the link: http://localhost:3000
 
